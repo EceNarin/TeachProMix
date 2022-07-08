@@ -1,0 +1,14 @@
+   while(true)
+   		kullnıcıdan secim iste (tas, kagıt ya da makas)
+   			random olustur (0-3 arasi out of 3)
+  				if karsılastır
+  					kullanııcının ustunse veya pc'nin ustunse
+  						kullanıcı>pc kazandiniz count kullanıcı puanı +1 
+  							pc kazandıysa pc+1
+  							syso("pc puan" = , "kullanıcı puan=" count)
+  							syso("devam etmek isitromusunuz")
+  							if evet continue;
+  	basa alacak						
+  							if hayır bitirecek
+  							ifcoun<pc) kaybettiniz
+  							else syso("kazandiniz tebrikler")

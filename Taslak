@@ -1,0 +1,69 @@
+Kullanıcıya film seçmesi için numara sor
+Girilen numaralı indexteki filmin harf sayısını ekrana yazdır
+Harf sayısı * 2 kadar tahmin hakkını ekrana yazdır
+Tahmin hakkı kadar tekrarlı döngü içinde
+	Kullanıcıya tahminini sor
+	Tahmin doğru ise
+		Bildiniz de
+		Döngüden çık
+	Tahmin yanlış ise
+		Bilemediniz de
+		Daha tahmin hakkı var ise
+			Tahmin hakkını bir azalt
+			Kaç tahmin hakkı kaldığını söyle
+			Tekrar tahmin etmesini iste
+		Daha tahmin hakkı yok ise
+			Tahmin hakkınız doldu de
+Kullanıcıya film seçmesi için numara sor
+Numaranın doğruluğunu kontrol et
+Girilen numaralı indexteki filmin harf sayısını ekrana yazdır
+Harf sayısı * 2 kadar tahmin hakkını ekrana yazdır
+Tahmin hakkı kadar tekrarlı döngü içinde
+	Kullanıcıya tahminini sor
+	Tahmin doğru ise
+		Bildiniz de
+		Kaç tahminde bildiğini göster
+		Tekrar oynamak isteyip istemediğini sor
+		İstiyorsa
+			Baştan başlat
+		İstemiyorsa
+			Çık
+	Tahmin yanlış ise
+		Bilemediniz de
+		Daha tahmin hakkı var ise
+			Tahmin hakkını bir azalt
+			Kaç tahmin hakkı kaldığını söyle
+			Tekrar tahmin etmesini iste
+		Daha tahmin hakkı yok ise
+			Tahmin hakkınız doldu de
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			Silicon Valley - TV Series - 8.5
+	Mr. Robot - TV Series - 8.5
+	The IT Crowd - TV Series - 8.5
+	Person of Interest - TV Series - 8.4
+	A Beautiful Mind - Movie - 8.2
+	The Internet's Own Boy - Documentary - 8.0
+	The Imitation Game - Movie - 8.0
+	The Pursuit of Happyness - Movie - 8.0
+	Indie Game: The Movie - Movie - 7.6
+	Moneyball - Movie - 7.6
+	Minority Report - Movie - 7.6
+	Pirates of Silicon Valley - Movie - 7.2
+	Snowden-Movie - 7.3
+	The Founder - Movie - 7.2
+	The Great Hack -Documentary - 7.1
+	The Internship - Movie - 6.3
+			
